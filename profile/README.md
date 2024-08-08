@@ -1,4 +1,4 @@
-### Title: **Code After Dark: Adventures of Sam and Alex**
+### **Code After Dark: Adventures of Sam and Alex**
 
 Sam and Alex met in the bustling offices of TechCorp, a tech giant known for its groundbreaking software solutions. Sam was the resident front-end wizard, known for their ability to transform any user interface into a masterpiece. Alex, on the other hand, was the backend guru, skilled in creating robust, scalable architectures that could handle anything thrown at them.
 
@@ -73,7 +73,3 @@ With their projects thriving and new opportunities on the horizon, Sam and Alex 
 Together, they continued to work on new ideas, fueled by their passion for coding and their friendship, knowing that no challenge was too great as long as they faced it together.
 
 To celebrate their success and share their projects with the world, Sam and Alex decided to create a GitHub organization. They called it “Code After Dark,” in honor of their late-night coding sessions.
-
-On the organization’s homepage, they posted a README file with the story of their adventures, hoping to inspire other developers to pursue their passions and embark on their own coding journeys.
-
-The story of Sam and Alex is a testament to the power of collaboration, creativity, and friendship. In the world of coding, the possibilities are endless, and sometimes, all it takes is a spark of inspiration and a partner-in-code to create something truly amazing.
